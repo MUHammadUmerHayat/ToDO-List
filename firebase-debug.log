@@ -1,0 +1,21 @@
+[debug] [2020-07-24T17:42:31.233Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T17:42:31.239Z] Command:       /home/muhammad/.nvm/versions/node/v14.5.0/bin/node /home/muhammad/.nvm/versions/node/v14.5.0/bin/firebase init
+[debug] [2020-07-24T17:42:31.240Z] CLI Version:   8.5.0
+[debug] [2020-07-24T17:42:31.240Z] Platform:      linux
+[debug] [2020-07-24T17:42:31.241Z] Node Version:  v14.5.0
+[debug] [2020-07-24T17:42:31.358Z] Time:          Fri Jul 24 2020 22:42:31 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-07-24T17:42:31.359Z] ----------------------------------------------------------------------
+[debug] [2020-07-24T17:42:31.360Z] 
+[debug] [2020-07-24T17:42:31.414Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-07-24T17:42:31.415Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/muhammad/Downloads/ToDo-Application-master
+
