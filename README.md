@@ -1,6 +1,6 @@
-# ToDo-Application
-The code is a program of ToDo Application. <br>
-It contains 3 files of HTML, CSS and JS. <br>
-programmer:Muhammad Umer Hayat <br>
-github: MUHammadUmerHayat <br>
+# ToDo-Application:
+# The code is a program of ToDo Application.
+Its contain HTML, CSS and JS.
+#Dangrous Programmer:Muhammad Umer Hayat
+ #github: MUHammadUmerHayat 
 
